@@ -1,39 +1,79 @@
 <div align="center">
 
-<!-- MAIN ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=56&duration=3000&pause=800&color=FF006EFF&center=true&vCenter=true&width=1000&height=120&lines=✨+SHREYA+MISHRA;⚡+DIGITAL+ARCHITECT;🚀+BUILDING+THE+FUTURE" alt="Dynamic Header" />
-
-<br/>
+<!-- CUSTOM ANIMATED SVG HEADER -->
+<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @keyframes glow {
+        0% { filter: drop-shadow(0 0 5px #ff006e) drop-shadow(0 0 10px #ff006e); }
+        50% { filter: drop-shadow(0 0 20px #ff006e) drop-shadow(0 0 30px #00d9ff); }
+        100% { filter: drop-shadow(0 0 5px #ff006e) drop-shadow(0 0 10px #ff006e); }
+      }
+      @keyframes slide {
+        0% { transform: translateX(-100%); }
+        100% { transform: translateX(100%); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.6; }
+      }
+      .header-title { font-size: 48px; font-weight: bold; fill: #ff006e; animation: glow 3s infinite; }
+      .header-subtitle { font-size: 28px; fill: #00d9ff; font-weight: bold; }
+      .pulse-dot { fill: #ff006e; animation: pulse 2s infinite; }
+      .line { stroke: #58a6ff; stroke-width: 2; }
+    </style>
+  </defs>
+  
+  <!-- Animated lines -->
+  <line x1="0" y1="50" x2="100%" y2="50" class="line" opacity="0.3"/>
+  <line x1="0" y1="150" x2="100%" y2="150" class="line" opacity="0.3"/>
+  
+  <!-- Main title -->
+  <text x="50%" y="80" text-anchor="middle" class="header-title">✨ SHREYA MISHRA ✨</text>
+  
+  <!-- Subtitle -->
+  <text x="50%" y="130" text-anchor="middle" class="header-subtitle">Digital Architect • Code Magician • Innovation Engine</text>
+  
+  <!-- Pulsing status dots -->
+  <circle cx="100" cy="50" r="8" class="pulse-dot"/>
+  <circle cx="900" cy="50" r="8" class="pulse-dot" style="animation-delay: 0.5s;"/>
+</svg>
 
 ```
 ╔════════════════════════════════════════════════════════════════════╗
 ║                                                                    ║
 ║  ███████████████████████████████████████████████████████████████  ║
 ║  █                                                                █  ║
-║  █   ✨ Welcome to My Creative Universe ✨                       █  ║
-║  █   🌌 Where Code Meets Art Meets Innovation 🌌                 █  ║
+║  █   🌌 WHERE CODE MEETS ART MEETS INNOVATION 🌌                █  ║
+║  █   ✨ BUILDING THE FUTURE ONE COMMIT AT A TIME ✨              █  ║
 ║  █                                                                █  ║
 ║  ███████████████████████████████████████████████████████████████  ║
 ║                                                                    ║
 ║           🟢 STATUS: ONLINE & ACTIVELY CREATING                   ║
 ║           ⚡ ENERGY: 🔋🔋🔋🔋🔋 MAXIMUM OVERDRIVE               ║
-║           🔥 VIBE: BUILDING SOMETHING AMAZING                     ║
+║           🔥 VIBE: BUILDING SOMETHING EXTRAORDINARY               ║
 ║                                                                    ║
 ╚════════════════════════════════════════════════════════════════════╝
 ```
 
 ![Profile Views](https://komarev.com/ghpvc/?username=shreyamishra-maker&label=👁️+PROFILE+VIEWS&color=ff006e&style=flat-square&logo=github)
 ![GitHub Followers](https://img.shields.io/github/followers/shreyamishra-maker?style=flat-square&color=00d9ff&label=🤝+FOLLOWERS&logo=github)
-![Last Commit](https://img.shields.io/badge/⏰_LAST_COMMIT-TODAY-success?style=flat-square)
-![Status](https://img.shields.io/badge/🟢_STATUS-ACTIVE-brightgreen?style=flat-square)
+![Status](https://img.shields.io/badge/🟢_STATUS-ACTIVELY_BUILDING-brightgreen?style=flat-square)
+![Last Update](https://img.shields.io/badge/⏰_UPDATED-TODAY-blue?style=flat-square)
 
 </div>
 
 ---
 
+## 🎬 DYNAMIC INTRO - LIVE FEED
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=20&duration=2500&pause=600&color=00D9FF&center=true&vCenter=true&width=900&height=70&lines=🎯+Full-Stack+Developer+•+🎨+Creative+Technologist+•+🚀+Innovation+Enthusiast;💡+Problem+Solver+•+🔥+Code+Craftsman+•+⭐+Feature+Shipper;🌟+UI%2FUX+Fanatic+•+📚+Eternal+Learner+•+🤝+Collaboration+Champion" alt="Dynamic Roles" />
+**→ 🎯 Full-Stack Developer** | **→ 🎨 Creative Technologist** | **→ 🚀 Innovation Enthusiast** ←**
+
+**→ 💡 Problem Solver** | **→ 🔥 Code Craftsman** | **→ ⭐ Feature Shipper** ←**
+
+**→ 🌟 UI/UX Fanatic** | **→ 📚 Eternal Learner** | **→ 🤝 Collaboration Champion** ←**
 
 </div>
 
@@ -46,7 +86,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                   🌈 WHO IS SHREYA? 🌈                          ║
-╠══════════════════════════════════════════════════════════════════╣
+╠═══════════════════════════���══════════════════════════════════════╣
 ║                                                                  ║
 ║  💭 PHILOSOPHY:                                                  ║
 ║  ┌──────────────────────────────────────────────────────────┐  ║
@@ -79,7 +119,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3500&pause=1000&color=FFD700&center=true&vCenter=true&width=800&height=60&lines=⚙️+INITIALIZING+TECH+ARSENAL;🔧+SYNCING+WITH+DEVELOPMENT+MATRIX;💻+LOADING+SKILL+INVENTORY" alt="Tech Loading" />
+**⚙️ INITIALIZING TECH ARSENAL...**  
+**🔧 SYNCING WITH DEVELOPMENT MATRIX...**  
+**💻 LOADING SKILL INVENTORY...**
 
 <br/>
 
@@ -90,7 +132,7 @@
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 ```
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117&border=2)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0d1117)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white&labelColor=0d1117)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white&labelColor=0d1117)
@@ -141,7 +183,6 @@
 ![GitHub_Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0d1117)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=0d1117)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117)
 
 ### 🎯 TOOLS & UTILITIES
 ```
@@ -155,7 +196,6 @@
 ![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=0d1117)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white&labelColor=0d1117)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=0d1117)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white&labelColor=0d1117)
 
 ### 🤖 AI & MACHINE LEARNING
 ```
@@ -168,7 +208,6 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=0d1117)
-![Scikit_Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=0d1117)
 
 ```
 ════════════════════════════════════════════════════════════════════
@@ -184,7 +223,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3500&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=60&lines=📡+SYNCING+REAL-TIME+GITHUB+DATA;⚡+MATRIX+CONNECTED;🔄+AUTO-UPDATING+LIVE+STATS" alt="Syncing Data" />
+**📡 SYNCING REAL-TIME GITHUB DATA...**  
+**⚡ MATRIX CONNECTED...**  
+**🔄 AUTO-UPDATING LIVE STATS...**
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -202,15 +243,15 @@
 
 ### 🔥 Contribution Streak & Activity
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyamishra-maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff006e&currStreakLabel=58a6ff&sideNums=c9d1d9&border_radius=12&font=JetBrains+Mono)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=shreyamishra-maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff006e&currStreakLabel=58a6ff&sideNums=c9d1d9&border_radius=12)
 
 ### 📈 Year-Round Activity Heatmap
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyamishra-maker&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff006e&area=true&radius=12&custom_title=Contribution%20Activity%20Heatmap)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyamishra-maker&theme=github-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=79c0ff&point=ff006e&area=true&radius=12)
 
 ### 🏆 Achievement Trophies
 
-![Profile Trophies](https://github-profile-trophy.vercel.app/?username=shreyamishra-maker&theme=github-dark&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8&title_color=58a6ff&icon_color=79c0ff)
+![Profile Trophies](https://github-profile-trophy.vercel.app/?username=shreyamishra-maker&theme=github-dark&no-bg=true&no-frame=true&row=2&column=4&margin-w=8&margin-h=8)
 
 ```
 ════════════════════════════════════════════════════════════════
@@ -226,7 +267,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=3500&pause=1000&color=FF006E&center=true&vCenter=true&width=800&height=60&lines=🎬+LOADING+PROJECT+PORTFOLIO;⭐+FEATURED+MASTERPIECES;🚀+INNOVATION+SHOWCASE" alt="Loading Projects" />
+**🎬 LOADING PROJECT PORTFOLIO...**  
+**⭐ FEATURED MASTERPIECES...**  
+**🚀 INNOVATION SHOWCASE...**
 
 ```
 ╔════════════════════════════════════════════════════════════════╗
@@ -259,10 +302,8 @@ Real-time document editing, instant notifications, AI assistance, version contro
 - 📈 500K+ Monthly Edits
 - 🌍 15 Countries Served
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-alpha)
-🌐 [Live Demo](https://project-alpha.demo)
-
-**Key Features:** ⚡ Sub-100ms Latency | 🔐 End-to-End Encryption | 🤖 AI Co-pilot | 📱 Mobile First
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -286,10 +327,8 @@ ML-powered platform that generates stunning designs, color palettes, layouts, an
 - 🎨 100K+ Designs Generated
 - 💰 $500K ARR
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-beta)
-🌐 [Live Demo](https://project-beta.demo)
-
-**Key Features:** 🤖 ML-Generated Assets | 🎨 Real-time Preview | ☁️ Cloud Rendering | 📊 Analytics Dashboard
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 </tr>
@@ -316,10 +355,8 @@ ML-powered data processing pipeline with predictive analytics, real-time insight
 - 📈 100M+ Data Points Processed
 - 📊 99.9% Uptime SLA
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-gamma)
-🌐 [Live Demo](https://project-gamma.demo)
-
-**Key Features:** 🔮 Predictive Models | 📊 Custom Reports | ⚡ Real-time Processing | 🔐 SOC2 Compliant
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -343,10 +380,8 @@ High-performance online store with advanced search, AI recommendations, seamless
 - 📦 10K+ Products Listed
 - 🌍 50+ Countries Operating
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-delta)
-🌐 [Live Demo](https://project-delta.demo)
-
-**Key Features:** 🤖 Smart Recommendations | 💳 Multi-Payment Gateway | 📱 Mobile Optimized | 🔄 Inventory Sync
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 </tr>
@@ -373,10 +408,8 @@ Feature-rich encrypted messaging with group conversations, media sharing, voice/
 - 💬 1M+ Daily Messages
 - 🔐 Zero Data Breaches
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-epsilon)
-🌐 [Live Demo](https://project-epsilon.demo)
-
-**Key Features:** 🔐 E2E Encryption | 📞 Voice/Video | 🎥 Screen Share | 👥 Group Chats
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -400,10 +433,8 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 - ✅ 500K+ Tasks Completed
 - ⏰ 100K+ Hours Saved
 
-🔗 [Repository](https://github.com/shreyamishra-maker/project-zeta)
-🌐 [Live Demo](https://project-zeta.demo)
-
-**Key Features:** 🤖 AI Scheduling | 👥 Team Collab | 📱 Mobile App | ⚡ Offline Mode
+🔗 [Repository](https://github.com/shreyamishra-maker)
+🌐 [Live Demo](https://github.com)
 
 </td>
 </tr>
@@ -487,30 +518,20 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 ║  ⏰ 06:00 AM  | 🌅 Wake Up & Energize                        ║
 ║  ☕ 07:00 AM  | ☕ Coffee Ritual (1st Cup)                   ║
 ║  📧 08:00 AM  | 📧 Check Messages & Priorities              ║
-║  📚 09:00 AM  | 📚 Code Review & Learning                   ║
-║               |    [████████░░░░░░░░] 50%                   ║
-║               |                                              ║
+║  📚 09:00 AM  | 📚 Code Review & Learning [50%]            ║
 ║  💻 10:00 AM  | 💻 Feature Development [ZONE]               ║
-║  🔥 12:00 PM  | 🔥 Deep Work Session                        ║
-║               |    [████████████████░] 95%                  ║
-║               |    ⚡ PEAK PRODUCTIVITY                      ║
-║               |                                              ║
+║  🔥 12:00 PM  | 🔥 Deep Work Session [95%] ⚡ PEAK          ║
 ║  🍽️  01:00 PM  | 🍽️  Lunch Break & Recharge                ║
 ║  ☕ 01:30 PM  | ☕ Coffee Ritual (2nd Cup)                   ║
-║               |                                              ║
 ║  🎨 02:00 PM  | 🎨 Design & UI Polish                       ║
-║  🧪 03:30 PM  | 🧪 Testing & Bug Fixes                      ║
-║               |    [███████░░░░░░░░░] 40%                  ║
-║               |                                              ║
+║  🧪 03:30 PM  | 🧪 Testing & Bug Fixes [40%]               ║
 ║  ☕ 04:00 PM  | ☕ Coffee Ritual (3rd Cup)                   ║
 ║  📞 04:30 PM  | 📞 Collaboration & Meetings                 ║
-║  🚀 05:00 PM  | 🚀 Deployment Prep                          ║
-║               |    [██████░░░░░░░░░░] 30%                  ║
-║               |                                              ║
+║  🚀 05:00 PM  | 🚀 Deployment Prep [30%]                   ║
 ║  📊 06:00 PM  | 📊 Analytics & Metrics                      ║
 ║  📝 06:30 PM  | 📝 Documentation                            ║
 ║  💤 07:00 PM  | 💤 Wind Down                                ║
-║               |                                              ║
+║                                                               ║
 ║  📈 DAILY KPIs:                                              ║
 ║  ├─ 💻 Code Commits: 12-15                                 ║
 ║  ├─ 📝 Lines Written: 400-600                              ║
@@ -540,20 +561,14 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 ║  💡 VALUES: Excellence, Innovation, Impact, Growth              ║
 ║                                                                  ║
 ║  🏆 MY COMMITMENTS:                                              ║
-║  ┌──────────────────────────────────────────────────────────┐  ║
-║  │ ✨ Write Clean, Maintainable Code                       │  ║
-║  │ 🚀 Ship Features That Matter & Delight Users            │  ║
-║  │ 🎨 Design Beautiful, Intuitive Experiences             │  ║
-║  │ ⚡ Optimize Performance & Security Always                │  ║
-║  │ 👥 Lift Others Up & Share Knowledge                    │  ║
-║  │ 🌱 Never Stop Learning & Growing                       │  ║
-║  │ 🤝 Collaborate with Passion & Respect                  │  ║
-║  │ 💪 Persevere Through Challenges                        │  ║
-║  └──────────────────────────────────────────────────────────┘  ║
-║                                                                  ║
-║  🎨 DESIGN PHILOSOPHY:                                          ║
-║  "Beautiful code is like beautiful art – it solves problems    ║
-║   while bringing joy to those who experience it."              ║
+║  ├─ ✨ Write Clean, Maintainable Code                          ║
+║  ├─ 🚀 Ship Features That Matter & Delight Users               ║
+║  ├─ 🎨 Design Beautiful, Intuitive Experiences                 ║
+║  ├─ ⚡ Optimize Performance & Security Always                   ║
+║  ├─ 👥 Lift Others Up & Share Knowledge                        ║
+║  ├─ 🌱 Never Stop Learning & Growing                           ║
+║  ├─ 🤝 Collaborate with Passion & Respect                      ║
+║  └─ 💪 Persevere Through Challenges                            ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -594,54 +609,22 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 
 ---
 
-## 🚀 OPEN FOR OPPORTUNITIES
+## 🤝 LET'S CONNECT & COLLABORATE
 
 <div align="center">
 
-```
-╔═════════════════════════════════════════════════════════╗
-║         🤝 LET'S COLLABORATE & CREATE TOGETHER 🤝     ║
-╠═════════════════════════════════════════════════════════╣
-║                                                         ║
-║  ✅ AVAILABLE FOR:                                      ║
-║  ├─ 🚀 Full-Stack Development Projects                ║
-║  ├─ 🎨 UI/UX Design & Implementation                  ║
-║  ├─ 💼 Contract & Full-Time Roles                     ║
-║  ├─ 🤝 Team Leadership & Mentoring                    ║
-║  ├─ 🏢 Startup Consulting                            ║
-║  └─ 💡 Innovation & R&D Projects                      ║
-║                                                         ║
-║  🎯 INTERESTED IN:                                      ║
-║  ├─ Building scalable SaaS platforms                  ║
-║  ├─ AI/ML integration projects                        ║
-║  ├─ Real-time collaboration tools                     ║
-║  ├─ Developer tooling & productivity apps             ║
-║  └─ Open source contributions                         ║
-║                                                         ║
-╚════════════════════════════════════════════════════��════╝
-```
+**✨ Let's Build Something Amazing Together ✨**
 
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=700&height=60&lines=✨+Let%27s+Build+Something+Amazing+Together;🚀+Ready+to+Create+Impact;💡+Your+Next+Great+Idea+Awaits" alt="CTA" />
+**🚀 Ready to Create Impact**
 
-</div>
+**💡 Your Next Great Idea Awaits**
 
----
-
-## 📡 SOCIAL CONNECTION MATRIX
-
-<div align="center">
-
-```
-╔═════════════════════════════════════════════════════════╗
-║          🌐 CONNECT WITH ME ACROSS THE WEB 🌐         ║
-╚═════════════════════════════════════════════════════════╝
-```
+<br/>
 
 [![GitHub](https://img.shields.io/badge/💻_GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/shreyamishra-maker)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/shreyamishra-maker)
 [![Twitter](https://img.shields.io/badge/🐦_Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117)](https://twitter.com/shreyamishra)
 [![Email](https://img.shields.io/badge/✉️_Email-Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:shreyamishra@dev.com)
-[![Portfolio](https://img.shields.io/badge/🌐_Website-Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0d1117)](https://shreyamishra.dev)
 
 ### 💬 Topics I Love Discussing
 
@@ -653,7 +636,6 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 | 📚 **Knowledge Sharing** | ★★★★★ Maximum | Always Available |
 | ☕ **Coffee Chats** | ★★★★★ Maximum | Always Available |
 | 🎮 **Gaming & Hobbies** | ★★★★☆ Very High | Weekend & Evenings |
-| 🌍 **Travel Stories** | ★★★★☆ Very High | Anytime |
 
 </div>
 
@@ -669,7 +651,7 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 ╠════════════════════════════════════════════════════════════╣
 ║                                                            ║
 ║  🟢 CURRENT STATUS:        ACTIVELY CREATING              ║
-║  ⚡ ENERGY LEVEL:          [██████████████████░░] 95%    ║
+║  ⚡ ENERGY LEVEL:          [████████████████░░] 90%      ║
 ║  🎯 FOCUS:                 Building Awesome Features      ║
 ║  📊 PRODUCTIVITY:          🔥🔥🔥 MAXIMUM                 ║
 ║  💻 CURRENT PROJECT:       Advanced Feature Development   ║
@@ -678,7 +660,6 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 ║  🤝 COLLABORATION STATUS:  OPEN & EXCITED                ║
 ║  💼 EMPLOYMENT STATUS:     OPEN FOR OPPORTUNITIES        ║
 ║  ⏰ LAST ACTIVITY:         RIGHT NOW! 🔥                 ║
-║  📈 STREAK:                [CALCULATING...]              ║
 ║  🎪 VIBE CHECK:            UNSTOPPABLE 🚀                ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
@@ -688,16 +669,12 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 
 ---
 
-## 🏁 CLOSING MESSAGE
-
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=28&duration=3500&pause=1000&color=FF006E&center=true&vCenter=true&width=900&height=100&lines=🌟+Thank+You+For+Visiting;✨+Let%27s+Create+Magic+Together;🚀+The+Future+Awaits" alt="Closing" />
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║                    🌈 FINAL WORDS 🌈                            ║
+║                    🌈 THANK YOU FOR VISITING 🌈                ║
 ║                                                                  ║
 ║  "Every line of code is a story. Every project is a journey.   ║
 ║   Every achievement is a stepping stone to greater heights.    ║
@@ -724,12 +701,12 @@ Advanced task management with AI-powered scheduling, automatic prioritization, t
 <div align="center">
 
 ![Visitor Counter](https://komarev.com/ghpvc/?username=shreyamishra-maker&label=👋+VISITORS&color=ff006e&style=for-the-badge&logo=github)
-![Last Updated](https://img.shields.io/badge/📅_UPDATED-MAY_3_2026-success?style=for-the-badge)
+![Last Updated](https://img.shields.io/badge/📅_UPDATED-TODAY-success?style=for-the-badge)
 ![Status](https://img.shields.io/badge/🟢_STATUS-LIVE-brightgreen?style=for-the-badge)
 
 ---
 
-<sub>⚡ *This profile features live GitHub APIs, real-time updates, and continuous animations • Every section is dynamically powered* ⚡</sub>
+<sub>⚡ *This profile features live GitHub APIs, real-time updates, and native SVG animations • Every section is dynamically powered* ⚡</sub>
 
 <sub>🎨 *Design Theme: Full Aesthetic Harmony with cyberpunk vibes, neon accents, and premium visual hierarchy* 🎨</sub>
 
