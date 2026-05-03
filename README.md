@@ -17,7 +17,7 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 
 - 🎯 **Currently:** Building web applications and exploring new tech stacks
 - 🌱 **Learning:** Advanced system design and cloud architecture
-- 💬 **Ask me about:** React, Node.js, Python, databases, and web development
+- 💬 **Ask me about:** React, Node.js, Python, C, C++, databases, and web development
 - 📧 **Reach me:** [Email](mailto:shreyamishra@dev.com)
 
 ---
@@ -28,6 +28,8 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
@@ -60,9 +62,12 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&card_width=500)
+### My GitHub Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra-maker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=500)
+**Total Repositories:** 24+ public projects  
+**Primary Languages:** JavaScript, Python, C, C++  
+**Contribution Frequency:** Active contributor  
+**Focus Areas:** Full-Stack Development, Algorithms, Data Structures
 
 </div>
 
@@ -73,31 +78,61 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 ### 1. **E-Commerce Platform**
 - Built with React, Node.js, and MongoDB
 - Features: Product catalog, shopping cart, payment integration
-- [Repository](https://github.com/shreyamishra-maker)
+- Tech: JavaScript, React, Node.js, Express, MongoDB
 
 ### 2. **Task Management App**
 - React frontend with Firebase backend
 - Real-time updates and user authentication
-- [Repository](https://github.com/shreyamishra-maker)
+- Tech: React, Firebase, JavaScript, CSS
 
-### 3. **Weather Dashboard**
-- Interactive weather application using React
-- Integration with weather APIs
-- [Repository](https://github.com/shreyamishra-maker)
+### 3. **Algorithm Library** (C/C++)
+- Collection of important algorithms and data structures
+- Implementations of sorting, searching, and graph algorithms
+- Tech: C, C++
 
 ### 4. **Blog Platform**
 - Full-stack application built with Next.js
 - User authentication and markdown support
-- [Repository](https://github.com/shreyamishra-maker)
+- Tech: TypeScript, Next.js, PostgreSQL
+
+---
+
+## 💻 Programming Expertise
+
+### Full-Stack Web Development
+- Frontend: React, Vue.js, HTML5, CSS3, Tailwind CSS
+- Backend: Node.js, Express, Django, FastAPI
+- Databases: MongoDB, PostgreSQL, Firebase
+
+### Systems & Algorithms (C/C++)
+- Data structures implementation
+- Algorithm optimization
+- Competitive programming
+
+### Languages & Proficiency
+| Language | Proficiency | Use Case |
+|----------|-------------|----------|
+| JavaScript | Expert | Web Development |
+| Python | Advanced | Backend, Scripting, ML |
+| TypeScript | Advanced | Type-Safe Web Development |
+| C++ | Advanced | Algorithms, System Programming |
+| C | Advanced | Low-Level Programming, Algorithms |
+| HTML5/CSS3 | Expert | Frontend Development |
 
 ---
 
 ## 💼 Experience
 
 ### Full-Stack Developer
-- Developed and maintained web applications
-- Worked with React, Node.js, and various databases
-- Collaborated with teams on multiple projects
+- Developed and maintained web applications using React and Node.js
+- Built RESTful APIs and integrated third-party services
+- Worked with MongoDB and PostgreSQL for database management
+- Collaborated with teams using Git and GitHub
+
+### Systems Programming & Competitive Programming
+- Implemented efficient algorithms in C and C++
+- Solved complex data structure problems
+- Optimized code for performance and memory efficiency
 
 ### Skills
 - Web Development (Frontend & Backend)
@@ -105,27 +140,38 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 - API Development and Integration
 - Version Control with Git
 - Problem Solving and Debugging
+- Algorithms and Data Structures (C/C++)
+- System Design Principles
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Activity & Contributions
 
-<div align="center">
+### Recent Work
+- Actively contributing to projects
+- Regular code commits and improvements
+- Collaborating on open-source projects
+- Learning and implementing new technologies
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyamishra-maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff006e&currStreakLabel=58a6ff)
-
-</div>
+### Project Categories
+- 🌐 **Web Applications** - Full-stack web projects
+- 📱 **Frontend Projects** - React and Vue.js applications
+- 🖥️ **Backend Services** - Node.js and Python APIs
+- 🔧 **Algorithms** - C/C++ implementations
+- 📚 **Learning Projects** - Continuous education
 
 ---
 
 ## 🎓 Learning & Development
 
 I'm committed to continuous learning and regularly explore:
-- Advanced JavaScript patterns and ES6+
-- System design principles
-- Cloud services (AWS, Firebase, Vercel)
-- Open-source contribution
+- Advanced JavaScript and TypeScript patterns
+- System design and architecture
+- Cloud services and deployment (AWS, Firebase, Vercel)
+- Advanced C/C++ and system programming
+- Algorithm optimization and competitive programming
 - Best practices in web development
+- Open-source contribution
 
 ---
 
@@ -142,12 +188,29 @@ I'm committed to continuous learning and regularly explore:
 
 ---
 
-## 📝 Blog & Articles
+## 💡 What I'm Working On
 
-I occasionally write about web development, best practices, and learning experiences. Check out my latest posts:
-- Building scalable Node.js applications
-- React patterns and optimization techniques
-- Database design fundamentals
+### Current Projects
+- **Web Development:** Building scalable full-stack applications
+- **Algorithms:** Implementing and optimizing data structures in C/C++
+- **Open Source:** Contributing to community projects
+- **Learning:** Exploring advanced system design patterns
+
+### Goals
+- Build production-grade applications
+- Contribute more to open-source projects
+- Master advanced C++ system programming
+- Help other developers through knowledge sharing
+
+---
+
+## 📝 Quick Facts
+
+- 💻 **Favorite Tools:** VS Code, Git, Docker
+- 🎯 **Coding Style:** Clean code, DRY principles
+- 🚀 **Passion:** Building efficient and scalable solutions
+- 📚 **Always Learning:** New technologies and best practices
+- 🤝 **Open To:** Collaboration, mentoring, and new opportunities
 
 ---
 
@@ -157,6 +220,6 @@ I occasionally write about web development, best practices, and learning experie
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-**Last updated:** May 3, 2026
+**Last updated:** May 3, 2026 | **Status:** Active Developer | **Open to:** Opportunities & Collaborations
 
 </div>
