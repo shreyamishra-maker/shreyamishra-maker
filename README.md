@@ -18,7 +18,7 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 - 🎯 **Currently:** Building web applications and exploring new tech stacks
 - 🌱 **Learning:** Advanced system design and cloud architecture
 - 💬 **Ask me about:** React, Node.js, Python, C, C++, databases, and web development
-- 📧 **Reach me:** [Email](mailto:shreyamishra@dev.com)
+- 📧 **Reach me:** [Email](mailto:imshreyamishra4u@gmail.com)
 
 ---
 
