@@ -3,6 +3,7 @@
 # 👋 Hi, I'm Shreya Mishra
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+My+Dev+Space;Building+Amazing+Web+Solutions;Let's+Code+Something+Great)](https://github.com/odesrani-create)
 ### Full-Stack Developer | Creative Technologist | Problem Solver
+<img width="1402" height="1122" alt="banner" src="https://github.com/user-attachments/assets/a154422b-bf06-42b0-8b9d-39b81365d087" />
 
 ![GitHub followers](https://img.shields.io/github/followers/shreyamishra-maker?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/shreyamishra-maker?style=social)
