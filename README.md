@@ -181,7 +181,7 @@ I'm committed to continuous learning and regularly explore:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyamishra-maker)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyamishra)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shreyamishra)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:imshreyamishra4u@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://shreyamishra.dev)
