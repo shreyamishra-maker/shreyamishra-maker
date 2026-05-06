@@ -1,6 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Shreya Mishra
+<img width="1402" height="1122" alt="banner" src="https://github.com/user-attachments/assets/69121896-0c22-40ff-afa6-b0b6a5a8dad9" />
 
 ### Full-Stack Developer | Creative Technologist | Problem Solver
 
