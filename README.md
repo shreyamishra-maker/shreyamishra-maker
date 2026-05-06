@@ -60,7 +60,7 @@ I'm a passionate full-stack developer with a deep interest in building scalable 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&icon_color=79c0ff&card_width=500)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra-maker&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=c9d1d9&title_color=58a6ff&card_width=500)
 
