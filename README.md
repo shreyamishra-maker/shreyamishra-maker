@@ -161,4 +161,4 @@ I occasionally write about web development, best practices, and learning experie
 </div>
 ## Contribution Snake
 
-![snake gif](https://github.com/shreyamishra-maker/shreyamishra-maker/blob/output/snake.svg)
+.github/workflows/snake.yml
