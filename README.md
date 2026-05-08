@@ -159,6 +159,3 @@ I occasionally write about web development, best practices, and learning experie
 **Last updated:** May 3, 2026
 
 </div>
-## Contribution Snake
-
-.github/workflows/snake.yml
