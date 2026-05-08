@@ -159,3 +159,6 @@ I occasionally write about web development, best practices, and learning experie
 **Last updated:** May 3, 2026
 
 </div>
+## Contribution Snake
+
+![snake gif](https://github.com/shreyamishra-maker/shreyamishra-maker/blob/output/snake.svg)
