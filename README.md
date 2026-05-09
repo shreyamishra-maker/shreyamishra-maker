@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Shreya Mishra
-<img width="22" height="22" alt="Screenshot 2026-05-05 132620" src="https://github.com/user-attachments/assets/5122c725-7c08-41b5-9eca-9bfdf49a0860" />
 
 
 
