@@ -2,6 +2,7 @@
 
 # 👋 Hi, I'm Shreya Mishra
 
+<img width="1402" height="1122" alt="git hub poster" src="https://github.com/user-attachments/assets/eb62513d-8825-41bd-aa96-c51112750308" />
 
 #computer Engineer
 Aim GOOGLE
