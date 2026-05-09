@@ -3,7 +3,7 @@
 # 👋 Hi, I'm Shreya Mishra
 
 <img width="1402" height="1122" alt="git hub poster" src="https://github.com/user-attachments/assets/83c03d84-2609-47e6-95c8-d2014ab0038b" />
-#computer Engine
+#computer Engineer
 Aim GOOGLE
 
 ![GitHub followers](https://img.shields.io/github/followers/shreyamishra-maker?style=social)
