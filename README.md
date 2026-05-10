@@ -178,6 +178,16 @@ Full-stack blog application built with Next.js and PostgreSQL.
 
 ---
 
+# 📈 GitHub Contribution Graph
+
+<p align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyamishra-maker&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+---
+
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
