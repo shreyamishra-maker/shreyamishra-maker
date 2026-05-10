@@ -144,6 +144,9 @@ Full-stack blog application built with Next.js and PostgreSQL.
 ```
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
 
 # 💼 Skills & Expertise
 
