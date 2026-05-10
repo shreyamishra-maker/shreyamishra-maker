@@ -1,163 +1,232 @@
+<h1 align="center">Hi 👋, I'm Shreya Mishra</h1>
+
+<h3 align="center">
+💻 Full-Stack Developer | 🚀 Creative Technologist | 🇮🇳 India
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Web+Application+Builder;Problem+Solver;Building+Scalable+Projects" alt="Typing SVG" />
+</p>
+
+---
+
+# ⚡ About Me
+
+<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+- 🔭 Working on **Scalable Web Applications**
+- 🌱 Learning **System Design, Cloud Architecture & Advanced Algorithms**
+- 💡 Exploring **AI/ML Integration & Microservices**
+- 🎯 Goal: Build production-grade applications with real impact
+- ⚡ Fun fact: I love turning complex problems into elegant solutions
+
+<br><br>
+
+---
+
+# 🧠 Developer Philosophy
+
+<p align="center">
+
+> "Code is poetry written for machines, but crafted for humans to understand."
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Clean_Code-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building_Projects-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open_Source-Contributor-orange?style=for-the-badge"/>
+</p>
+
+---
+
+# 🛠 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,python,typescript,c,cpp,react,nodejs,express,mongodb,postgresql,html,css,git,docker,linux,vscode" />
+
+</p>
+
+<p align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
+
+</p>
+
+---
+
+# 📂 Featured Projects
+
 <div align="center">
 
-# 👋 Hi, I'm Shreya Mishra
+## 1. 🛍️ E-Commerce Platform
 
-<img width="1402" height="1122" alt="git hub poster" src="https://github.com/user-attachments/assets/eb62513d-8825-41bd-aa96-c51112750308" />
+Full-stack web application with modern tech stack for seamless shopping experience.
 
-#computer Engineer
-Aim GOOGLE
+### Features
 
-![GitHub followers](https://img.shields.io/github/followers/shreyamishra-maker?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/shreyamishra-maker?style=social)
+✅ React Frontend with Tailwind CSS  
+✅ Node.js + Express Backend  
+✅ MongoDB Database  
+✅ Payment Integration  
+✅ User Authentication  
+
+🔗 Repository:  
+[Click Here](https://github.com/shreyamishra-maker)
+
+---
+
+## 2. 📋 Task Management App
+
+Real-time collaborative task management application with Firebase backend.
+
+### Features
+
+✅ React Frontend  
+✅ Firebase Real-time Database  
+✅ User Authentication  
+✅ Real-time Updates  
+✅ Responsive Design  
+
+🔗 Repository:  
+[Click Here](https://github.com/shreyamishra-maker)
+
+---
+
+## 3. 🔧 Algorithm Library (C/C++)
+
+Comprehensive collection of algorithms and data structures implementations.
+
+### Features
+
+✅ Sorting Algorithms  
+✅ Searching & Graph Algorithms  
+✅ Data Structure Implementations  
+✅ Well-Documented Code  
+✅ Performance Optimized  
+
+🔗 Repository:  
+[Click Here](https://github.com/shreyamishra-maker)
+
+---
+
+## 4. 📝 Blog Platform
+
+Full-stack blog application built with Next.js and PostgreSQL.
+
+### Features
+
+✅ User Authentication  
+✅ Markdown Support  
+✅ Real-time Comments  
+✅ SEO Optimized  
+✅ Dark Mode Support  
+
+🔗 Repository:  
+[Click Here](https://github.com/shreyamishra-maker)
 
 </div>
 
 ---
 
-## 💫 About Me
+# 📚 Development Journey
 
-I'm a passionate full-stack developer with a deep interest in building scalable applications and learning new technologies. I love creating elegant solutions to complex problems and contributing to open-source projects.
-
-- 🎯 **Currently:** Building web applications and exploring new tech stacks
-- 🌱 **Learning:** Advanced system design and cloud architecture
-- 💬 **Ask me about:** React, Node.js, Python, databases, and web development
-- 📧 **Reach me:** [Email](mailto:shreyamishra@dev.com)
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/-MongoDB-13AA52?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+```text
+2024 ─ Started Learning Web Development
+2024 ─ Built First Full-Stack Application
+2025 ─ Learning Advanced System Design
+2025 ─ Contributing to Open Source
+2026 ─ Building Production-Grade Applications
+```
 
 ---
 
-## 📊 GitHub Statistics
+# 💼 Skills & Expertise
 
-<div align="center">
+<p align="center">
 
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, Python, TypeScript, C, C++ |
+| **Frontend** | React, Vue.js, HTML5, CSS3, Tailwind CSS |
+| **Backend** | Node.js, Express, Django, FastAPI |
+| **Databases** | MongoDB, PostgreSQL, Firebase |
+| **Tools** | Git, Docker, VS Code, Linux |
+| **Specializations** | Full-Stack Web Dev, Algorithms, System Design |
 
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 1. **E-Commerce Platform**
-- Built with React, Node.js, and MongoDB
-- Features: Product catalog, shopping cart, payment integration
-- [Repository](https://github.com/shreyamishra-maker)
-
-### 2. **Task Management App**
-- React frontend with Firebase backend
-- Real-time updates and user authentication
-- [Repository](https://github.com/shreyamishra-maker)
-
-### 3. **Weather Dashboard**
-- Interactive weather application using React
-- Integration with weather APIs
-- [Repository](https://github.com/shreyamishra-maker)
-
-### 4. **Blog Platform**
-- Full-stack application built with Next.js
-- User authentication and markdown support
-- [Repository](https://github.com/shreyamishra-maker)
+</p>
 
 ---
 
-## 💼 Experience
+# 📊 GitHub Stats
 
-### Full-Stack Developer
-- Developed and maintained web applications
-- Worked with React, Node.js, and various databases
-- Collaborated with teams on multiple projects
+<p align="center">
 
-### Skills
-- Web Development (Frontend & Backend)
-- Database Design and Management
-- API Development and Integration
-- Version Control with Git
-- Problem Solving and Debugging
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=tokyonnight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra-maker&layout=compact&theme=tokyonight"/>
+
+</p>
 
 ---
 
-## 📈 GitHub Activity
+# 🏆 GitHub Trophies
 
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shreyamishra-maker&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=79c0ff&fire=ff006e&currStreakLabel=58a6ff)
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shreyamishra-maker&theme=algolia&margin-w=15&margin-h=15"/>
+</p>
 
 ---
 
-## 🎓 Learning & Development
+# 💡 What I'm Currently Doing
 
-I'm committed to continuous learning and regularly explore:
-- Advanced JavaScript patterns and ES6+
-- System design principles
-- Cloud services (AWS, Firebase, Vercel)
-- Open-source contribution
-- Best practices in web development
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyamishra-maker)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/shreyamishra)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:shreyamishra@dev.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat&logo=firefox&logoColor=white)](https://shreyamishra.dev)
-
-</div>
+- 🔨 Building scalable full-stack applications
+- 📚 Learning advanced system design patterns
+- 🤝 Contributing to open-source projects
+- 🚀 Exploring cloud deployment and DevOps
+- 💻 Mastering data structures and algorithms
+- 🎓 Continuous learning and skill development
 
 ---
 
-## 📝 Blog & Articles
+# 🤝 Let's Connect
 
-I occasionally write about web development, best practices, and learning experiences. Check out my latest posts:
-- Building scalable Node.js applications
-- React patterns and optimization techniques
-- Database design fundamentals
+<p align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyamishra-maker)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shreyamishra)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamishra@dev.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyamishra-maker)
+
+</p>
 
 ---
 
-<div align="center">
+# 📈 Profile Stats
 
-### Thanks for visiting my GitHub profile! 👨‍💻
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=shreyamishra-maker&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+</p>
 
-*"Code is like humor. When you have to explain it, it's bad." – Cory House*
+---
 
-**Last updated:** May 3, 2026
+# 🎯 Open To
 
-</div>
+<p align="center">
+
+✅ Freelance Projects  
+✅ Open Source Contributions  
+✅ Internship Opportunities  
+✅ Collaboration & Mentoring  
+✅ Full-Time Development Roles  
+
+</p>
+
+---
+
+<p align="center">
+✨ Building • Learning • Growing ✨
+</p>
