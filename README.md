@@ -144,6 +144,7 @@ Full-stack blog application built with Next.js and PostgreSQL.
 ```
 
 ---
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
@@ -172,6 +173,16 @@ Full-stack blog application built with Next.js and PostgreSQL.
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=tokyonnight"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra-maker&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Contribution Streak
+
+<p align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyamishra-maker&theme=tokyonight)](https://git.io/streak-stats)
 
 </p>
 
