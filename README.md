@@ -3,6 +3,7 @@
 <h3 align="center">
 💻 Full-Stack Developer | 🚀 Creative Technologist | 🇮🇳 India
 </h3>
+<img width="1402" height="1122" alt="ChatGPT Image May 10, 2026, 12_02_03 AM" src="https://github.com/user-attachments/assets/58594c49-0eff-4923-b7bc-6cd41a54c28b" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Web+Application+Builder;Problem+Solver;Building+Scalable+Projects" alt="Typing SVG" />
