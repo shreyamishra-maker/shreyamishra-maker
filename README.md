@@ -3,17 +3,30 @@
 <h3 align="center">
 💻 Full-Stack Developer | 🚀 Creative Technologist | 🇮🇳 India
 </h3>
-<img width="1402" height="1122" alt="ChatGPT Image May 10, 2026, 12_02_03 AM" src="https://github.com/user-attachments/assets/58594c49-0eff-4923-b7bc-6cd41a54c28b" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Web+Application+Builder;Problem+Solver;Building+Scalable+Projects" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&color=0:0f172a,100:0ea5e9&text=ShreyaMishra&fontColor=ffffff&fontSize=40&animation=fadeIn"/>
+</p>
+
 ---
 
-# ⚡ About Me
+# ⚡ Personal Banner
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<p align="center">
+  <img width="1983" height="793" alt="profile_banner" src="https://github.com/user-attachments/assets/eb62513d-8825-41bd-aa96-c51112750308" />
+</p>
+
+---
+
+# 🚀 About Me
+
+<table>
+<tr>
+<td width="60%">
 
 - 🔭 Working on **Scalable Web Applications**
 - 🌱 Learning **System Design, Cloud Architecture & Advanced Algorithms**
@@ -21,11 +34,19 @@
 - 🎯 Goal: Build production-grade applications with real impact
 - ⚡ Fun fact: I love turning complex problems into elegant solutions
 
-<br><br>
+</td>
+
+<td width="40%" align="center">
+
+<img alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Developer Philosophy
+# 🧠 Developer Mindset
 
 <p align="center">
 
@@ -41,20 +62,45 @@
 
 ---
 
-# 🛠 Tech Stack
+# 🌐 Connect With Me
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,typescript,c,cpp,react,nodejs,express,mongodb,postgresql,html,css,git,docker,linux,vscode" />
+<a href="https://linkedin.com/in/shreyamishra-maker" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/shreyamishra" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="mailto:shreyamishra4u@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/shreyamishra-maker" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
+---
+
+# 🛠 Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=javascript,python,typescript,c,cpp,react,nodejs,express,mongodb,postgresql,html,css,git,docker,linux,vscode&theme=dark" />
+
+</div>
+
+<br>
+
 <p align="center">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="55" height="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="55" height="55"/>
-
+  <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
+  <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Languages-JavaScript%20%26%20Python-yellow?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Databases-MongoDB%20%26%20PostgreSQL-blueviolet?style=for-the-badge&logo=mongodb"/>
 </p>
 
 ---
@@ -63,77 +109,60 @@
 
 <div align="center">
 
-## 1. 🛍️ E-Commerce Platform
+## 🛍️ E-Commerce Platform
 
 Full-stack web application with modern tech stack for seamless shopping experience.
 
-### Features
-
-✅ React Frontend with Tailwind CSS  
-✅ Node.js + Express Backend  
-✅ MongoDB Database  
-✅ Payment Integration  
-✅ User Authentication  
+**Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
 
 🔗 Repository:  
-[Click Here](https://github.com/shreyamishra-maker)
+[E-Commerce Platform](https://github.com/shreyamishra-maker)
 
 ---
 
-## 2. 📋 Task Management App
+## 📋 Task Management App
 
 Real-time collaborative task management application with Firebase backend.
 
-### Features
-
-✅ React Frontend  
-✅ Firebase Real-time Database  
-✅ User Authentication  
-✅ Real-time Updates  
-✅ Responsive Design  
+**Tech Stack:** React, Firebase, JavaScript, CSS
 
 🔗 Repository:  
-[Click Here](https://github.com/shreyamishra-maker)
+[Task Manager](https://github.com/shreyamishra-maker)
 
 ---
 
-## 3. 🔧 Algorithm Library (C/C++)
+## 🔧 Algorithm Library (C/C++)
 
 Comprehensive collection of algorithms and data structures implementations.
 
-### Features
-
-✅ Sorting Algorithms  
-✅ Searching & Graph Algorithms  
-✅ Data Structure Implementations  
-✅ Well-Documented Code  
-✅ Performance Optimized  
+**Tech Stack:** C, C++, DSA, Algorithms
 
 🔗 Repository:  
-[Click Here](https://github.com/shreyamishra-maker)
+[Algorithm Library](https://github.com/shreyamishra-maker)
 
 ---
 
-## 4. 📝 Blog Platform
+## 📝 Blog Platform
 
 Full-stack blog application built with Next.js and PostgreSQL.
 
-### Features
-
-✅ User Authentication  
-✅ Markdown Support  
-✅ Real-time Comments  
-✅ SEO Optimized  
-✅ Dark Mode Support  
+**Tech Stack:** Next.js, TypeScript, PostgreSQL, Authentication
 
 🔗 Repository:  
-[Click Here](https://github.com/shreyamishra-maker)
+[Blog Platform](https://github.com/shreyamishra-maker)
 
 </div>
 
 ---
 
 # 📚 Development Journey
+
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/github/explore/main/topics/web-development/web-development.png" 
+    width="180"
+  />
+</p>
 
 ```text
 2024 ─ Started Learning Web Development
@@ -145,22 +174,16 @@ Full-stack blog application built with Next.js and PostgreSQL.
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</p>
-
-# 💼 Skills & Expertise
+# 🏅 Achievements & Strengths
 
 <p align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Languages** | JavaScript, Python, TypeScript, C, C++ |
-| **Frontend** | React, Vue.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express, Django, FastAPI |
-| **Databases** | MongoDB, PostgreSQL, Firebase |
-| **Tools** | Git, Docker, VS Code, Linux |
-| **Specializations** | Full-Stack Web Dev, Algorithms, System Design |
+🥇 Building Real-World Full-Stack Projects
+🚀 Active GitHub Contributor
+📚 Advanced Skills in JavaScript, Python & C++
+💻 Exploring Cloud Deployment & DevOps
+⚡ Mastering Data Structures & Algorithms
+🎓 Continuous Learning & Skill Development
 
 </p>
 
@@ -169,21 +192,15 @@ Full-stack blog application built with Next.js and PostgreSQL.
 # 📊 GitHub Stats
 
 <p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=tokyonnight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyamishra-maker&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyamishra-maker&show_icons=true&theme=tokyonnight" />
 </p>
 
 ---
 
-# 📈 GitHub Contribution Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyamishra-maker&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyamishra-maker&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -191,18 +208,50 @@ Full-stack blog application built with Next.js and PostgreSQL.
 # 🔥 GitHub Contribution Streak
 
 <p align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shreyamishra-maker&theme=tokyonight)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com/?user=shreyamishra-maker&theme=tokyonight" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📊 Contribution Overview
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shreyamishra-maker&theme=algolia&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shreyamishra-maker&theme=tokyonight"/>
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shreyamishra-maker&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shreyamishra-maker&theme=tokyonight"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shreyamishra-maker&theme=algolia&no-frame=true&margin-w=10&margin-h=10"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+---
+
+# 💼 Skills & Expertise
+
+| Category | Skills |
+|----------|--------|
+| **Languages** | JavaScript, Python, TypeScript, C, C++, HTML5, CSS3 |
+| **Frontend** | React, Vue.js, Tailwind CSS, Bootstrap |
+| **Backend** | Node.js, Express, Django, FastAPI |
+| **Databases** | MongoDB, PostgreSQL, Firebase |
+| **Tools & DevOps** | Git, Docker, Linux, VS Code, GitHub |
+| **Specializations** | Full-Stack Web Dev, Algorithms, System Design |
 
 ---
 
@@ -217,23 +266,20 @@ Full-stack blog application built with Next.js and PostgreSQL.
 
 ---
 
-# 🤝 Let's Connect
+# 📈 Profile Views
 
 <p align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyamishra-maker)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shreyamishra)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shreyamishra4u@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shreyamishra-maker)
-
+<img src="https://komarev.com/ghpvc/?username=shreyamishra-maker&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 </p>
 
 ---
 
-# 📈 Profile Stats
+# 💡 Developer Philosophy
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shreyamishra-maker&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+> "Great developers are built through consistency, curiosity, and real projects."
+
 </p>
 
 ---
@@ -244,13 +290,15 @@ Full-stack blog application built with Next.js and PostgreSQL.
 
 ✅ Freelance Projects  
 ✅ Open Source Contributions  
-✅ Internship Opportunities  
-✅ Collaboration & Mentoring  
 ✅ Full-Time Development Roles  
+✅ Collaboration & Mentoring  
+✅ Innovative Ideas & Partnerships  
 
 </p>
 
 ---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer"/>
 
 <p align="center">
 ✨ Building • Learning • Growing ✨
