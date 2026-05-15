@@ -301,5 +301,6 @@ Full-stack blog application built with Next.js and PostgreSQL.
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0ea5e9&height=120&section=footer"/>
 
 <p align="center">
+  let's connect with each other hope so you like my projects so dont forget to star.
 ✨ Building • Learning • Growing ✨
 </p>
