@@ -90,7 +90,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=javascript,python,typescript,c,cpp,react,nodejs,express,mongodb,postgresql,html,css,git,docker,linux,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,python,typescript,c,react,nodejs,html,css,git,,linux,vscode&theme=dark" />
 
 </div>
 
@@ -100,7 +100,6 @@
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js"/>
   <img src="https://img.shields.io/badge/Languages-JavaScript%20%26%20Python-yellow?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Databases-MongoDB%20%26%20PostgreSQL-blueviolet?style=for-the-badge&logo=mongodb"/>
 </p>
 
 ---
